@@ -2,7 +2,57 @@
 
 A modern, feature-rich Anki template designed for language learning, with special support for Chinese and English.
 
-## Features
+## Configuration
+
+Configuration du paquet :
+
+Tous les paquets comportent des intitulés de champs suivant ce format :
+
+<table>
+   <thead>
+      <tr>
+         <th>Nom de champ</th>
+         <th>Description</th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td><b>mot_src</b></td>
+         <td>Mots dans la langue d'origine</td>
+      </tr>
+      <tr>
+         <td><b>mot_trad</b></td>
+         <td>Mots dans la langue cible</td>
+      </tr>
+      <tr>
+         <td><b>image</b></td>
+         <td>URL de l'image associée au mot (facultatif)</td>
+      </tr>
+      <tr>
+         <td><b>exemple_src</b></td>
+         <td>Exemple d'utilisation du mot dans la langue d'origine (facultatif)</td>
+      </tr>
+      <tr>
+         <td><b>exemple_trad</b></td>
+         <td>Exemple d'utilisation du mot dans la langue cible (facultatif [selon les cas]*)</td>
+      </tr>
+      <tr>
+         <td><b>grammaire</b></td>
+         <td>Catégories grammaticales du mot dans la langue d'origine (facultatif [selon les cas]*)</td>
+      </tr>
+      <tr>
+         <td><b>source</b></td>
+         <td>Contexte dans lequel le mot a été vu pour la première fois (facultatif)</td>
+      </tr>
+   </tbody>
+</table>
+
+
+
+
+
+
+
 
 ### Universal Features [U]
 - 🌙 Dark mode support
