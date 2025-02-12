@@ -77,7 +77,7 @@ Veillez respecter les règles de formatage suivantes :
 - [facultatif] détails entre crochets qui seront affichés en bas de la définition
 - [si autres définitions] séparation obligatoire avec des « ; » (sans espace après)
 
-Exemple : (sciences) physique ;ES étrenner [faire usage d’une chose pour la première fois]
+Exemple : `(sciences) physique ;ES étrenner [faire usage d’une chose pour la première fois]`
 
 <center><img src="https://i.postimg.cc/hGMrnn7N/definitions.png" height="80"></center>
 <center><i><p style="color:grey">— Affichage de l'exemple.</p></i></center>
@@ -86,6 +86,8 @@ Exemple : (sciences) physique ;ES étrenner [faire usage d’une chose pour la p
 
 Si vous avez choisi d'inclure une image associée au mot, veillez à respecter les règles suivantes :
 - Vérifier que l'URL est valide et pointe vers une image au format compatible avec votre plateforme.
+
+Exemple : `https://www.example.com/images/dog.jpg`
 
 ### 4. **Exemple de l'utilisation du mot dans la langue source (facultatif)**
 
@@ -100,6 +102,8 @@ Vous devez également respecter les règles de formatage suivantes :
 
 Si vous avez choisi d'inclure les catégories grammaticales du mot dans la langue source, veuillez à respecter les règles suivantes :
 - Séparer les différentes catégories grammaticales avec des « ; »
+
+Exemple : `pronom ; personnel`
 
 ### 7. **Source (facultatif)** :
 
