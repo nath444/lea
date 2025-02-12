@@ -1,0 +1,96 @@
+- 1.0 - 
+
+- 2.0 - (Visual Update)
+- refonte du design / bootstrap
+- création des exemples
+- amélioration classification natures
+- 3 définitions
+- tts pour définition & exemple
+- link dictionnaires (wr, chine.in, etc.)
+- pinyin
+- image avec url (et pas en local)
+- meilleure intégration Hanzi Writer
+
+- 2.5 -
+- synonymes
+
+- 3.0 - (Better Together Update) - janvier 2023
+[x] « Noms communs » > « Noms »
+[x] passer à bootstrap 5.3
+[x] clean structure code & hiérarchie
+[x] faire fonctionner le lien vers chine.in (en enlevant les accents)
+[x] pinyin automatique pour les phrases d'exemple
+[x] split « Adv. & autres » en « Adverbes » et « Divers »
+[x] à côté de la nature, mettre la sous-nature
+[x] catégories / sous-catégories en chinois (spécificatifs, etc.) dans un même champ
+[x] redesign badge pinyin (border)
+[x] définitions infinies séparées avec des ";" et en js séparer les entrées pour chacun
+[x] mettre une explication claire de chaque définition en dessous si impossible de traduire simplement
+[x] drapeaux origine mot (code iso pays)
+[x] clean margin & padding
+[x] développer mode nuit / couleurs texte
+[x] créer documentation complète sur obsidian
+[x] messages d'erreur si mauvais nom de deck ou pas de version & langue
+[x] remplacement tts plus propre (§§§)
+[x] nouveau champ question vocabulaire
+[x] une seule version pour toutes les langues et types de carte / création infinies de deck sans besoin d'ajouter la langue dans le code (sauf TTS à modifier)
+[x] pinyin automatique mot_src
+[x] synonymes reconnus pour le type field / meilleure intégration synonymes
+[x] onglet extras avec liens dictionnaires améliorés, clés sémantiques, source 1ère fois, etc.
+
+- 3.0.1 - (février 2024)
+[x] api pour l'anglais
+
+- 3.0.2 - (juin 2024)
+[x] bug plusieurs drapeaux pas affichés
+[x] bug meilleurs boutons / thème nuit
+
+- 3.1 - (août 2024)
+[x] suppression mode écriture pour ZH
+
+- 3.5 - (décembre 2024)
+[x] Better Exemples → possibilité de cacher source, traduction (et pinyin pour ZH)
+[x] synonymes avec pinyin à côté
+[x] Bootstrap 5.3.3
+[x] in-code TTS → pour éviter la pré-configuration dans le code
+[x] titre de l’URL source & lien direct
+[x] corrections bug dark mode
+[x] Region Flags → codes numériques pour ajouter des régions à mot_trad
+
+BUGS :
+- couper le tts quand carte passée
+- si pas d'api pour anglais, ciao 
+- pas souligné pointillés synonymes exemples ios
+- si rien tapé dans question, pas d’update du mot_src
+- tts ios
+- bug cases cochées entre +2 mot_src
+- espace différent entre les codes pays et région drapeaux 
+- pour les acronymes bordel (ex : TGV → drapeau pays)
+
+À venir :
+- [ZH] inclure classificateur aux extras pour les noms communs
+- [ZH-W] highlight fin écriture caractères
+- [U] plusieurs exemples séparés pour ch. definition avec tts
+- [U] exemples infinis et nouveaux à chaque ouverture de la carte (avec une api)
+- [U] carte, photos monuments si le mot est une ville, un pays, etc. / tags villes, pays, etc.
+- [U] plusieurs classes grammaticales pour ch. entrée
+- [U] classe grammaticale automatique
+- [U] registre de langage automatiquement détecté
+- [U] image automatique
+- [U] traduction logiciel pour publication / adaptation / faire une documentation pour internet (sans truc perso)
+- [U] ne plus utiliser anki
+- maj automatique avec lien de redirection du code sur github par ex. / déploiement auto
+- [ZH] phrase d’exemple cliquer sur des mots pour voir leur définition si pas connu
+- [ZH] mettre majuscule après point exemple pinyin
+- [CL] inclure participe passé, conjugaison aux extras 
+- [U] dictionnaires auto pour chaque langue
+- [-V] focus input sur toutes les plateformes
+- [U] mots soulignés dans exemple et source
+- [U] ralentir tts pour dictée avec pauses entre les mots
+- [U] changer accent voix en fonction de l'origine du mot (si tu mets AR dans le mot, tu as une voix argentine)
+- [U] mode quizz audio ou écrit
+- [U] material ui 3.0
+- [U] ajouter thèmes
+- [U] séparer phrases exemples dans même mot 
+- [U] lettres jaunes question
+- [ZH] rajouter gif tracé caractère
