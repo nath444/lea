@@ -1,5 +1,10 @@
 # LEA 3.5 (Language Enhanced Anki Template)
 
+<center><img src="https://raw.githubusercontent.com/nath444/lea/f6e640eda26d4017ce92258b98990a64aa004696/lea%20logo.svg" width="50%"></center>
+
+**<center>Guide complet d’utilisation : <a href="https://github.com/nath444/lea/">LEA 3.5 (Language Enhanced Anki Template)</a>**
+</center>
+
 A modern, feature-rich Anki template designed for language learning, with special support for Chinese and English.
 
 ## Configuration
