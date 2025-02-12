@@ -94,7 +94,7 @@ Exemple : `https://www.example.com/images/dog.jpg`
 Si vous avez choisi d'inclure un exemple d'utilisation du mot dans la langue source, veillez à respecter les règles de grammaire et de syntaxe de la langue en question.
 
 Vous devez également respecter les règles de formatage suivantes :
-- [ZH] phrase en caractères chinois
+- [ZH] phrase et chiffres en caractères chinois
 
 ### 5. **Exemple de l'utilisation du mot dans la langue cible (facultatif)**
 
