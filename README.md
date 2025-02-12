@@ -1,4 +1,4 @@
-# LEA 3.5 (Language Enhanced Anki Template)
+# LEA (Language Enhanced Anki Template)
 
 <center><img src="https://raw.githubusercontent.com/nath444/lea/f6e640eda26d4017ce92258b98990a64aa004696/lea%20logo.svg" width="50%"></center>
 
