@@ -121,7 +121,7 @@ Add region codes before words to display regional flags:
 
 ## Classification des parties du discours
 
-Pour utiliser la classification des parties du discours inclue de base avec LEA, vous devez renseignez votre carte dans un sous-paquet du nom des classes grammaticales ci-dessous (les abréviations et couleurs suivantes seront utilisées) :
+Pour utiliser la classification des parties du discours inclue de base avec LEA, vous devez renseignez votre carte dans un sous-paquet du nom des classes grammaticales ci-dessous (les abréviations et couleurs suivantes seront utilisées automatiquement) :
 
 <table>
 	<thead>
