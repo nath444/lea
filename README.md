@@ -1,4 +1,4 @@
-# LEA 3.5 - Language Learning Anki Template
+# LEA 3.5 (Language Enhanced Anki Template)
 
 A modern, feature-rich Anki template designed for language learning, with special support for Chinese and English.
 
