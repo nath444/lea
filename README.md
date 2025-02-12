@@ -129,7 +129,6 @@ Pour utiliser la classification des parties du discours inclue de base avec LEA,
 			<th>Classe grammaticale</th>
 			<th>Abréviation</th>
 			<th>Parties du discours incluses</th>
-			<th>Catégorisation complète obligatoire</th>
 			<th>Couleur HTML</th>
 		</tr>
 	</thead>
@@ -138,42 +137,36 @@ Pour utiliser la classification des parties du discours inclue de base avec LEA,
 			<td>Adjectifs</td>
 			<td>ADJ.</td>
 			<td>Mots qui modifient ou précisent les noms.</td>
-			<td>-</td>
 			<td><span style='color:#037bff'>037bff</span></td>
 		</tr>
 		<tr>
 			<td>Adverbes</td>
 			<td>ADV.</td>
 			<td>Mots qui modifient ou précisent les verbes et les adjectifs.</td>
-			<td>-</td>
 			<td><span style='color:#fec009'>fec009</span></td>
 		</tr>
 		<tr>
 			<td>Divers</td>
 			<td>DIV.</td>
 			<td>Mots qui servent à relier des mots ou des phrases entre eux, mots qui indiquent la possession, mots qui expriment une émotion ou un sentiment, et toutes les autres parties du discours qui ne peuvent être regroupées ailleurs.</td>
-			<td>Oui*</td>
 			<td><span style='color:#6c757d'>6c757d</span></td>
 		</tr>
 		<tr>
 			<td>Expressions</td>
 			<td>EXP.</td>
 			<td>Locutions verbales qui ne peuvent être traduites mot à mot.</td>
-			<td>-</td>
 			<td><span style='color:#14a3b9'>14a3b9</span></td>
 		</tr>
 		<tr>
 			<td>Noms</td>
 			<td>NOM</td>
 			<td>Mots qui désignent des personnes, des choses, des qualités, etc.</td>
-			<td>-</td>
 			<td><span style='color:#28a644'>28a644</span></td>
 		</tr>
 		<tr>
 			<td>Verbes</td>
 			<td>VERBE</td>
 			<td>Mots qui expriment l'action ou l'état.</td>
-			<td>-</td>
 			<td><span style='color:#dc3444'>dc3444</span></td>
 		</tr>
 	</tbody>
