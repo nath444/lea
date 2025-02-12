@@ -6,8 +6,6 @@ A modern, feature-rich Anki template designed for language learning, with specia
 
 ## Configuration
 
-Configuration du paquet :
-
 Tous les paquets comportent des intitulés de champs suivant ce format :
 
 <table>
@@ -49,7 +47,9 @@ Tous les paquets comportent des intitulés de champs suivant ce format :
    </tbody>
 </table>
 
+### 1. **Mots dans la langue source**
 
+Le titre doit être écrit dans la langue source et doit suivre les règles de formatage suivantes.
 
 
 
