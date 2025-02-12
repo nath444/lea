@@ -51,11 +51,11 @@ Tous les paquets comportent des intitulés de champs suivant ce format :
       </tr>
       <tr>
          <td><b>exemple_trad</b></td>
-         <td>Exemple d'utilisation du mot dans la langue cible (facultatif [selon les cas]*)</td>
+         <td>Exemple d'utilisation du mot dans la langue cible (facultatif)</td>
       </tr>
       <tr>
          <td><b>grammaire</b></td>
-         <td>Catégories grammaticales du mot dans la langue d'origine (facultatif [selon les cas]*)</td>
+         <td>Catégories grammaticales du mot dans la langue d'origine (facultatif)</td>
       </tr>
       <tr>
          <td><b>source</b></td>
