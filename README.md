@@ -69,7 +69,7 @@ Tous les paquets comportent des intitulés de champs suivant ce format :
 Le titre doit être écrit dans la langue source et doit suivre les règles de formatage suivantes :
 - [si autres définitions] séparation obligatoire avec des « ; » (sans espace après)
 
-2. **Mots dans la langue cible**
+### 2. **Mots dans la langue cible**
 
 Veillez respecter les règles de formatage suivantes :
 - [facultatif] codes pays ISO 3166-2 des pays, collés si plusieurs (ex : FR, VEES, etc.)
@@ -82,26 +82,26 @@ Exemple : (sciences) physique ;ES étrenner [faire usage d’une chose pour la p
 <center><img src="https://i.postimg.cc/hGMrnn7N/definitions.png" height="80"></center>
 <center><i><p style="color:grey">— Affichage de l'exemple.</p></i></center>
 
-3. **URL de l'image associée au mot (facultatif)**
+### 3. **URL de l'image associée au mot (facultatif)**
 
 Si vous avez choisi d'inclure une image associée au mot, veillez à respecter les règles suivantes :
 - Vérifier que l'URL est valide et pointe vers une image au format compatible avec votre plateforme.
 
-4. **Exemple de l'utilisation du mot dans la langue source (facultatif)**
+### 4. **Exemple de l'utilisation du mot dans la langue source (facultatif)**
 
 Si vous avez choisi d'inclure un exemple d'utilisation du mot dans la langue source, veillez à respecter les règles de grammaire et de syntaxe de la langue en question.
 
 Vous devez également respecter les règles de formatage suivantes :
 - [ZH] phrase en caractères chinois
 
-5. **Exemple de l'utilisation du mot dans la langue cible (facultatif)**
+### 5. **Exemple de l'utilisation du mot dans la langue cible (facultatif)**
 
-6. **Catégories grammaticales du mot dans la langue source (facultatif)**
+### 6. **Catégories grammaticales du mot dans la langue source (facultatif)**
 
 Si vous avez choisi d'inclure les catégories grammaticales du mot dans la langue source, veuillez à respecter les règles suivantes :
 - Séparer les différentes catégories grammaticales avec des « ; »
 
-7. **Source (facultatif)** :
+### 7. **Source (facultatif)** :
 
 Veuillez à respecter les règles suivantes :
 - URL de la source en texte plein
